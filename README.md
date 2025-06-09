@@ -1,5 +1,5 @@
 
-# AWS Polly CI/CD Pipeline ..
+# AWS Polly CI/CD Pipeline 
 
 This project converts text to speech using Amazon Polly and uploads the result to S3 using GitHub Actions.
 
